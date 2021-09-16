@@ -1,0 +1,12 @@
+dwm.foreground: #c0c0c0
+dwm.selforeground: #c0c0c0
+dwm.selbackground: #191919
+dwm.background: #292929
+dmenu.foreground: #c0c0c0
+dmenu.background: #292929
+dmenu.selforeground: #c0c0c0
+dmenu.selbackground: #191919
+dmenu.highlightforeground: #c0c0c0
+dmenu.highlightforeground: #191919
+dmenu.outforeground: #c0c0c0
+dmenu.outbackground: #191919
